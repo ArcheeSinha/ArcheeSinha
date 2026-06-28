@@ -1,24 +1,115 @@
-<h1 align="center">Hi 👋, I'm Archee Sinha</h1>
-<h3 align="center">An aspiring AI/ML Engineer.</h3>
+# <h1 align="center">Hi 👋, I'm Archee Sinha</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archeesinha" alt="archeesinha" /></a> </p>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | B.Tech CSE (AI) Student | Building Intelligent Solutions</h3>
 
-- 🌱 I’m currently learning **AI/ML**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **archeesinha05@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/archee sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archee sinha" height="30" width="40" /></a>
-<a href="https://kaggle.com/archeesinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="archeesinha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/archeesinha_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="archeesinha_05" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=archeesinha&label=Profile%20views&color=0e75b6&style=flat" alt="archeesinha" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archeesinha&show_icons=true&locale=en&layout=compact" alt="archeesinha" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archeesinha&show_icons=true&locale=en" alt="archeesinha" /></p>
+* 🎓 Final Year **B.Tech CSE (Artificial Intelligence)** Student
+* 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
+* 🌱 Currently learning **Deep Learning, Generative AI, RAG Systems, and MLOps**
+* 💡 Interested in building **AI-powered real-world solutions**
+* 🏆 SIH Internal Winner | Ideathon Finalist | Girlscript Summer of Code Contributor
+* 💬 Ask me about **Python, Machine Learning, Data Science, and AI Projects**
+* 📫 Reach me at: **[archeesinha05@gmail.com](mailto:archeesinha05@gmail.com)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 MediLink AI
+
+> AI-powered interoperable patient passport system using RAG, Explainable AI, OCR, NLP, and Predictive Analytics.
+
+### 🏋️ Real-Time AI Gym Trainer
+
+> Computer Vision-based fitness assistant for posture detection and exercise tracking.
+
+### 🎓 AI Attendance System
+
+> Face recognition-based automated attendance management system.
+
+### 🫀 V.I.T.A.L.S.
+
+> AI healthcare solution leveraging machine learning and predictive analytics.
+
+### 🎮 AI Plays Flappy Bird
+
+> NeuroEvolution of Augmenting Topologies (NEAT) implementation using Python and Pygame.
+
+---
+
+## 🏆 Achievements
+
+* 🥇 SIH 2025 Internal Hackathon Winner
+* 🎯 Ideathon 3.0 Finalist
+* 💻 Girlscript Summer of Code Contributor
+* 🐍 Cisco Python Essentials 1 & 2 Certified
+* 📈 Solved 500+ coding problems
+* 🔥 Maintained a 70+ day coding streak
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/archee-sinha" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://kaggle.com/archeesinha" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/archeesinha_05" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,sklearn,opencv,flask,react,nodejs,mongodb,mysql,git,github,docker,aws,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=archeesinha&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archeesinha&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=archeesinha&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* 🔬 Build production-ready AI applications
+* 🤖 Explore Agentic AI and Generative AI
+* ☁️ Learn MLOps and Cloud Deployment
+* 🚀 Secure an AI/ML Engineering internship
+
+---
+
+<p align="center">
+✨ "I love turning ideas into intelligent solutions. Always learning. Always building." ✨
+</p>
